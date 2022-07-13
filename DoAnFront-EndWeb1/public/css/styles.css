@@ -1,0 +1,289 @@
+header {
+    background: url(../images/432423.jpg);
+    padding-bottom: 0%;
+    background-position: left;
+}
+
+.element-style {
+    background-color: rgba(0, 0, 0, .85);
+    padding: 40px 0;
+}
+
+.vaogiua {
+    text-align: center;
+    padding: 100px 0 30px;
+}
+
+.logo h1 {
+    display: inline-block;
+    letter-spacing: 10px;
+    color: #fff;
+    font-family: 'Josefin Sans', 'Arial', 'sans-serif';
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 1.3em;
+    margin-bottom: 0px;
+}
+
+.tieude {
+    color: #fff;
+    display: inline-block;
+    font-family: system-ui;
+    letter-spacing: 10px;
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 1.3em;
+    margin-bottom: 0px;
+    padding-left: 15px;
+}
+
+.logo1 h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 11.5px;
+    letter-spacing: 3px;
+}
+
+.haha {
+    text-align: center;
+}
+
+.hinh {
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    margin: 0px auto;
+    padding: 50px 50px;
+}
+
+.anh {
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    margin: 0px auto;
+    padding: 50px 50px;
+}
+
+.main-content {
+    background: #fff;
+}
+
+.MT {
+    border-top: 100px;
+    padding: 20px 0;
+    margin-top: 100px;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.MT:hover {
+    transform: scale(1.01);
+    opacity: 0.9;
+}
+
+.view {
+    background: #fff;
+    width: 40%;
+    height: 33px;
+    border: 2px solid #000;
+    color: rgb(16, 16, 16);
+    text-align: center;
+    padding-top: 7px;
+    font-size: 11px;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+    border-color: rgb(16, 16, 16);
+    margin-bottom: 120px;
+}
+.v{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.view:hover {
+    background: #000;
+    color: #fff;
+}
+
+.view1 {
+    background: #fff;
+    width: 250px;
+    height: 33px;
+    border: 2px solid #000;
+    color: #000;
+    text-align: center;
+    padding-top: 7px;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+}
+
+.view1:hover {
+    background: #000;
+    color: beige;
+}
+
+.slider {
+    color: #fff;
+    text-align: center;
+    letter-spacing: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+    font-size: 55px;
+    font-weight: 300;
+}
+
+.with {
+    color: #fff;
+    text-align: center;
+    letter-spacing: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+    font-size: 55px;
+    margin-top: 1px;
+    font-weight: 300;
+}
+
+.end {
+    display: grid;
+    background: url(../images/templates-scaled.jpeg);
+    background-size: cover;
+}
+
+.end1 {
+    color: #cecece;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.Hazel-now {
+    font-size: 21px;
+    color: #b7b7b7;
+    line-height: 1.7em;
+    font-family: 'Mulish', 'Arial', 'sans-serif';
+}
+
+.Pack {
+    font-size: 21px;
+    color: #b7b7b7;
+    line-height: 0.1;
+}
+
+.bg-rgba {
+    background: rgba(0, 0, 0, .85);
+}
+
+.Tons-of {
+    display: inline-block;
+    text-decoration: underline 2px;
+}
+
+.end2 {
+    padding-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.see-all {
+    width: 250px;
+    height: 40px;
+    border: 2px solid #fff;
+    color: #fff;
+    text-align: center;
+    padding-top: 11px;
+    font-size: 12px;
+    margin-top: 10px;
+    letter-spacing: 1.5px;
+    font-family: system-ui;
+}
+
+.see-all:hover {
+    background: #fff;
+    color: #000;
+    font-family: system-ui;
+}
+
+footer {
+    background: #fff;
+    padding-bottom: 0%;
+    text-align: center;
+}
+
+.fter {
+    color: #cecece;
+    padding: 100px 0;
+}
+
+.fter1 {
+    font-size: 0.5em;
+}
+
+.fter11 {
+    margin-top: 15px;
+    font-size: 1.7em;
+    color: #cecece;
+    font-weight: lighter;
+
+}
+
+.bieutuong {
+    color: #333333;
+    letter-spacing: 5px;
+}
+
+.bieutuong:hover {
+    color: #d8d8d8;
+}
+
+img.emoji {
+    display: inline;
+    border: none;
+    box-shadow: none;
+    height: 1em;
+    width: 1em;
+    margin: 0 0.07em;
+    vertical-align: -0.1em;
+    background: none;
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    .tieude {
+        color: #fff;
+        /* display: inline-block; */
+        font-family: system-ui;
+        letter-spacing: 10px;
+        font-weight: 300;
+        font-size: 16px !important;
+        display: inline-block;
+        font-size: 45px;
+        line-height: 1.3em;
+        margin-bottom: 0px;
+        padding-left: 15px;
+    }
+    .with {
+        color: #fff;
+        text-align: center;
+        letter-spacing: 10px;
+        padding-top: 10px;
+        text-decoration: none;
+        font-size: 33px;
+        margin-top: 1px;
+        font-weight: 300;
+    }
+    .slider {
+        color: #fff;
+        text-align: center;
+        letter-spacing: 10px;
+        padding-top: 10px;
+        text-decoration: none;
+        font-size: 33px;
+        font-weight: 300;
+    }
+    header {
+        background: url(../images/432423.jpg);
+        padding-bottom: 0%;
+        background-position: center;
+        background-size: cover;
+    }
+}
